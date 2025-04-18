@@ -1,6 +1,8 @@
 # ShadCN Template
 
-I made this so I won't waste time creating new projects. Follow the steps below to get your repo ready.
+### **⚠️ This branch shows the code after doing everything below**
+
+Idk about you but I'm gonna be using external css rather than tailwind's inline 💀<br>(don't want my components to look messy)
 
 1. **Add the Dependencies:**<br>
    ```bash
