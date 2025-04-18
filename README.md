@@ -1,6 +1,8 @@
 # ShadCN Template
 
-I made this so I won't waste time creating new projects. Follow the steps below to get your repo ready.
+I made this so I won't waste time creating new projects. Follow the steps below to get your repo ready.<br>
+
+(Check the `testing` branch for an example)
 
 1. **Add the Dependencies:**<br>
    ```bash
